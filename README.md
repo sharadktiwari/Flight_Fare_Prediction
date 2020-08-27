@@ -6,7 +6,7 @@
 Flight Fare Prediction from Kaggle
 
 # Classifier:
-1. Random Forest Regressor
+1. Random Forest Regressor (With Hyperparameter tuning)
    * You can use any regressor you want to use.
 
 # Pre-Requisits:
@@ -18,7 +18,8 @@ Must have Scikit-Learn installed
 # Instructions to run:
 1. First clone the project
 2. Open Jupyter and Run your 'Flight Fare Prediction.ipynb' file.
-3. Then open app.py
+3. Then in anaconda prompt goto to the working directory and run command 'flask run'.
+4. Now fill all the required options and submit to get the predicted Fare.
 
 # Contributors:
 > Sharad Kumar Tiwari
