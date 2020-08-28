@@ -1,6 +1,6 @@
 # Flight_Fare_Prediction
 
-# Predicting fare of flight after getting trained from training data contains Flight details.
+Predicting fare of flight after getting trained from training data contains Flight details.
 
 # Dataset:
 Flight Fare Prediction from Kaggle
