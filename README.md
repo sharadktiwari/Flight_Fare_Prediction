@@ -15,9 +15,9 @@ trained Random Forest Regressor model. After Prediction calculated Errors & Mode
 Hyper Parameter Tuning. 
 
  # Values Prior Hyperparameter Tuning
-   MAE :  1215.472397894052,
-   MSE :  4050931.7668317975, 
-   RMSE :  2012.6926657668819,
+   MAE :  1215.47,
+   MSE :  4050931.77, 
+   RMSE :  2012.69,
    
 # Parameters Obtained After Hyperparameter tuning - 
  'n_estimators': 100,
@@ -27,9 +27,9 @@ Hyper Parameter Tuning.
   'max_depth': 15
   
 # Values After Hyperparameter Tuning
-   MAE :  1177.211778224187,
-   MSE :  3646424.16095269,
-   RMSE :  1909.5612482852416,
+   MAE :  1177.21,
+   MSE :  3646424.16,
+   RMSE :  1909.56,
   
 # Achieved    r2_score -   0.8222
 
